@@ -1,1 +1,1 @@
-My first readme for first ALX project
+My first readme for first ALX Scholarship
